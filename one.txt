@@ -3,8 +3,6 @@ Hey welcome from feature ui
 Hey welcome from feature conflict
 Hey welcome from main conflict
 Hey welcome from main update
-<<<<<<< Updated upstream
-=======
 Hey welcome from feature rebase
 Hey welcome to stash
->>>>>>> Stashed changes
+Hey welcome from revert
