@@ -1,3 +1,4 @@
 Hello Git
 Hey welcome from feature ui
+Hey welcome from feature conflict
 Hey welcome from main conflict
